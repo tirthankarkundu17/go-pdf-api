@@ -7,7 +7,7 @@ import (
 	"github.com/gin-contrib/requestid"
 	ginzap "github.com/gin-contrib/zap"
 	"github.com/gin-gonic/gin"
-	"github.com/tirthankarkundu17/pdf-api/api/handler"
+	"github.com/tirthankarkundu17/pdf-api/internal/api/handler"
 	"go.uber.org/zap"
 )
 

@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/tirthankarkundu17/pdf-api/api"
+	"github.com/tirthankarkundu17/pdf-api/internal/api"
 	"go.uber.org/zap"
 )
 

@@ -11,8 +11,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 
-	"github.com/tirthankarkundu17/pdf-api/pkg/models"
-	"github.com/tirthankarkundu17/pdf-api/pkg/pdfservice"
+	"github.com/tirthankarkundu17/pdf-api/internal/models"
+	"github.com/tirthankarkundu17/pdf-api/pdfservice"
 	"go.uber.org/zap"
 )
 
